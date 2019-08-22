@@ -1,0 +1,15 @@
+c:\users\ali\documents\visual studio 2012\Projects\Ajanda\Ajanda\bin\Debug\Ajanda.exe.config
+c:\users\ali\documents\visual studio 2012\Projects\Ajanda\Ajanda\bin\Debug\Ajanda.exe
+c:\users\ali\documents\visual studio 2012\Projects\Ajanda\Ajanda\bin\Debug\Ajanda.pdb
+c:\users\ali\documents\visual studio 2012\Projects\Ajanda\Ajanda\obj\Debug\Ajanda.csprojResolveAssemblyReference.cache
+c:\users\ali\documents\visual studio 2012\Projects\Ajanda\Ajanda\obj\Debug\Ajanda.Form1.resources
+c:\users\ali\documents\visual studio 2012\Projects\Ajanda\Ajanda\obj\Debug\Ajanda.Properties.Resources.resources
+c:\users\ali\documents\visual studio 2012\Projects\Ajanda\Ajanda\obj\Debug\Ajanda.csproj.GenerateResource.Cache
+c:\users\ali\documents\visual studio 2012\Projects\Ajanda\Ajanda\obj\Debug\Ajanda.exe
+c:\users\ali\documents\visual studio 2012\Projects\Ajanda\Ajanda\obj\Debug\Ajanda.pdb
+C:\Users\Ali\Documents\Visual Studio 2012\Projects\Ajanda\Ajanda\obj\Debug\Ajanda.fduzenle.resources
+C:\Users\Ali\documents\visual studio 2012\Projects\Ajanda\Ajanda\obj\Debug\Ajanda.calısma.resources
+C:\Users\Ali\documents\visual studio 2012\Projects\Ajanda\Ajanda\obj\Debug\Ajanda.fçaduzenle.resources
+C:\Users\Ali\documents\visual studio 2012\Projects\Ajanda\Ajanda\obj\Debug\Ajanda.rapor.resources
+C:\Users\Ali\Documents\Visual Studio 2012\Projects\Ajanda\Ajanda\obj\Debug\RdlCompile.cache
+C:\Users\Ali\Documents\Visual Studio 2012\Projects\Ajanda\Ajanda\obj\Debug\RdlCompile.compiled
