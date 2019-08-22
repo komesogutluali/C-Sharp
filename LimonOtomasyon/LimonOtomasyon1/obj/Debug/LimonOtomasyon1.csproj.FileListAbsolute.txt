@@ -1,0 +1,261 @@
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\bin\Debug\EntityFramework.dll
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\bin\Debug\System.Data.SQLite.dll
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\bin\Debug\EntityFramework.xml
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\bin\Debug\System.Data.SQLite.xml
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.anasayfa.resources
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.masa.resources
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.masa_butonlari.resources
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.Sonislemler.resources
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.urunler.resources
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.csproj.GenerateResource.cache
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.csproj.CoreCompileInputs.cache
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.csproj.CopyComplete
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.login.resources
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.csprojResolveAssemblyReference.cache
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.personel.resources
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.KucukFormlar.alarm.resources
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.Deneme.resources
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.KucukFormlar.personel_giris.resources
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.KucukFormlar.textbox_form.resources
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.KucukFormlar.masa_tasi.resources
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.hesapdefteri.resources
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.ayarlar.resources
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.neler_sunuyoruz.resources
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.KucukFormlar.hesap_ode.resources
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.KucukFormlar.kullanicisozlesmesi.resources
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\bin\Debug\Limon Otomasyon.exe.config
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\bin\Debug\Limon Otomasyon.exe.manifest
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\bin\Debug\Limon Otomasyon.application
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\bin\Debug\Limon Otomasyon.exe
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\bin\Debug\Limon Otomasyon.pdb
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\obj\Debug\LimonOtomasyon.Properties.Resources.resources
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\obj\Debug\Limon Otomasyon.exe.manifest
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\obj\Debug\Limon Otomasyon.application
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\obj\Debug\Limon Otomasyon.exe
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\obj\Debug\Limon Otomasyon.pdb
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\bin\Debug\Google.Protobuf.dll
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\bin\Debug\MySql.Data.dll
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\bin\Debug\Google.Protobuf.xml
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\bin\Debug\MySql.Data.xml
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\bin\Debug\Microsoft.AnalysisServices.AppLocal.Core.dll
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\bin\Debug\Microsoft.AnalysisServices.AppLocal.dll
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\bin\Debug\Microsoft.AnalysisServices.AppLocal.Tabular.dll
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\obj\Debug\LimonOtomasyon.Formlar.raporlar.resources
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.csproj.ResolveComReference.cache
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\bin\Debug\DotNetZip.dll
+C:\Users\ileti\source\repos\LimonOtomasyon1\LimonOtomasyon1\bin\Debug\DotNetZip.xml
+C:\Users\Ali\Downloads\LimonOtomasyon1\bin\Debug\Limon Otomasyon.exe.config
+C:\Users\Ali\Downloads\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.csproj.ResolveComReference.cache
+C:\Users\Ali\Downloads\LimonOtomasyon1\obj\Debug\Limon Otomasyon.exe
+C:\Users\Ali\Downloads\LimonOtomasyon1\obj\Debug\Limon Otomasyon.pdb
+C:\Users\Ali\Downloads\LimonOtomasyon1\bin\Debug\Limon Otomasyon.exe.manifest
+C:\Users\Ali\Downloads\LimonOtomasyon1\bin\Debug\Limon Otomasyon.application
+C:\Users\Ali\Downloads\LimonOtomasyon1\bin\Debug\Limon Otomasyon.exe
+C:\Users\Ali\Downloads\LimonOtomasyon1\bin\Debug\Limon Otomasyon.pdb
+C:\Users\Ali\Downloads\LimonOtomasyon1\bin\Debug\DotNetZip.dll
+C:\Users\Ali\Downloads\LimonOtomasyon1\bin\Debug\EntityFramework.dll
+C:\Users\Ali\Downloads\LimonOtomasyon1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ali\Downloads\LimonOtomasyon1\bin\Debug\Google.Protobuf.dll
+C:\Users\Ali\Downloads\LimonOtomasyon1\bin\Debug\mscorlib.dll
+C:\Users\Ali\Downloads\LimonOtomasyon1\bin\Debug\MySql.Data.dll
+C:\Users\Ali\Downloads\LimonOtomasyon1\bin\Debug\System.Data.SQLite.dll
+C:\Users\Ali\Downloads\LimonOtomasyon1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Ali\Downloads\LimonOtomasyon1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Ali\Downloads\LimonOtomasyon1\bin\Debug\DotNetZip.xml
+C:\Users\Ali\Downloads\LimonOtomasyon1\bin\Debug\EntityFramework.xml
+C:\Users\Ali\Downloads\LimonOtomasyon1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ali\Downloads\LimonOtomasyon1\bin\Debug\Google.Protobuf.xml
+C:\Users\Ali\Downloads\LimonOtomasyon1\bin\Debug\MySql.Data.xml
+C:\Users\Ali\Downloads\LimonOtomasyon1\bin\Debug\System.Data.SQLite.xml
+C:\Users\Ali\Downloads\LimonOtomasyon1\bin\Debug\tr\mscorlib.resources.dll
+C:\Users\Ali\Downloads\LimonOtomasyon1\bin\Debug\normidna.nlp
+C:\Users\Ali\Downloads\LimonOtomasyon1\bin\Debug\normnfc.nlp
+C:\Users\Ali\Downloads\LimonOtomasyon1\bin\Debug\normnfd.nlp
+C:\Users\Ali\Downloads\LimonOtomasyon1\bin\Debug\normnfkc.nlp
+C:\Users\Ali\Downloads\LimonOtomasyon1\bin\Debug\normnfkd.nlp
+C:\Users\Ali\Downloads\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.csprojResolveAssemblyReference.cache
+C:\Users\Ali\Downloads\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.anasayfa.resources
+C:\Users\Ali\Downloads\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.ayarlar.resources
+C:\Users\Ali\Downloads\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.Deneme.resources
+C:\Users\Ali\Downloads\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.hesapdefteri.resources
+C:\Users\Ali\Downloads\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.KucukFormlar.alarm.resources
+C:\Users\Ali\Downloads\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.KucukFormlar.hesap_ode.resources
+C:\Users\Ali\Downloads\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.KucukFormlar.kullanicisozlesmesi.resources
+C:\Users\Ali\Downloads\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.KucukFormlar.masa_tasi.resources
+C:\Users\Ali\Downloads\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.KucukFormlar.personel_giris.resources
+C:\Users\Ali\Downloads\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.KucukFormlar.textbox_form.resources
+C:\Users\Ali\Downloads\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.login.resources
+C:\Users\Ali\Downloads\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.masa.resources
+C:\Users\Ali\Downloads\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.masa_butonlari.resources
+C:\Users\Ali\Downloads\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.neler_sunuyoruz.resources
+C:\Users\Ali\Downloads\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.personel.resources
+C:\Users\Ali\Downloads\LimonOtomasyon1\obj\Debug\LimonOtomasyon.Formlar.raporlar.resources
+C:\Users\Ali\Downloads\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.Sonislemler.resources
+C:\Users\Ali\Downloads\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.urunler.resources
+C:\Users\Ali\Downloads\LimonOtomasyon1\obj\Debug\LimonOtomasyon.Properties.Resources.resources
+C:\Users\Ali\Downloads\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.csproj.GenerateResource.Cache
+C:\Users\Ali\Downloads\LimonOtomasyon1\obj\Debug\Limon Otomasyon.exe.manifest
+C:\Users\Ali\Downloads\LimonOtomasyon1\obj\Debug\Limon Otomasyon.application
+C:\Users\ileti\Desktop\limon\LimonOtomasyon1\bin\Debug\Limon Otomasyon.exe.config
+C:\Users\ileti\Desktop\limon\LimonOtomasyon1\bin\Debug\Limon Otomasyon.exe.manifest
+C:\Users\ileti\Desktop\limon\LimonOtomasyon1\bin\Debug\Limon Otomasyon.application
+C:\Users\ileti\Desktop\limon\LimonOtomasyon1\bin\Debug\Limon Otomasyon.exe
+C:\Users\ileti\Desktop\limon\LimonOtomasyon1\bin\Debug\Limon Otomasyon.pdb
+C:\Users\ileti\Desktop\limon\LimonOtomasyon1\bin\Debug\DotNetZip.dll
+C:\Users\ileti\Desktop\limon\LimonOtomasyon1\bin\Debug\EntityFramework.dll
+C:\Users\ileti\Desktop\limon\LimonOtomasyon1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ileti\Desktop\limon\LimonOtomasyon1\bin\Debug\Google.Protobuf.dll
+C:\Users\ileti\Desktop\limon\LimonOtomasyon1\bin\Debug\Microsoft.AnalysisServices.AppLocal.Core.dll
+C:\Users\ileti\Desktop\limon\LimonOtomasyon1\bin\Debug\Microsoft.AnalysisServices.AppLocal.dll
+C:\Users\ileti\Desktop\limon\LimonOtomasyon1\bin\Debug\Microsoft.AnalysisServices.AppLocal.Tabular.dll
+C:\Users\ileti\Desktop\limon\LimonOtomasyon1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ileti\Desktop\limon\LimonOtomasyon1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\ileti\Desktop\limon\LimonOtomasyon1\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\ileti\Desktop\limon\LimonOtomasyon1\bin\Debug\MySql.Data.dll
+C:\Users\ileti\Desktop\limon\LimonOtomasyon1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ileti\Desktop\limon\LimonOtomasyon1\bin\Debug\System.Data.SQLite.dll
+C:\Users\ileti\Desktop\limon\LimonOtomasyon1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ileti\Desktop\limon\LimonOtomasyon1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ileti\Desktop\limon\LimonOtomasyon1\bin\Debug\DotNetZip.xml
+C:\Users\ileti\Desktop\limon\LimonOtomasyon1\bin\Debug\EntityFramework.xml
+C:\Users\ileti\Desktop\limon\LimonOtomasyon1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ileti\Desktop\limon\LimonOtomasyon1\bin\Debug\Google.Protobuf.xml
+C:\Users\ileti\Desktop\limon\LimonOtomasyon1\bin\Debug\MySql.Data.xml
+C:\Users\ileti\Desktop\limon\LimonOtomasyon1\bin\Debug\System.Data.SQLite.xml
+C:\Users\ileti\Desktop\limon\LimonOtomasyon1\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\ileti\Desktop\limon\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.csprojResolveAssemblyReference.cache
+C:\Users\ileti\Desktop\limon\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.csproj.ResolveComReference.cache
+C:\Users\ileti\Desktop\limon\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.anasayfa.resources
+C:\Users\ileti\Desktop\limon\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.ayarlar.resources
+C:\Users\ileti\Desktop\limon\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.Deneme.resources
+C:\Users\ileti\Desktop\limon\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.hesapdefteri.resources
+C:\Users\ileti\Desktop\limon\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.KucukFormlar.alarm.resources
+C:\Users\ileti\Desktop\limon\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.KucukFormlar.hesap_ode.resources
+C:\Users\ileti\Desktop\limon\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.KucukFormlar.kullanicisozlesmesi.resources
+C:\Users\ileti\Desktop\limon\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.KucukFormlar.masa_tasi.resources
+C:\Users\ileti\Desktop\limon\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.KucukFormlar.personel_giris.resources
+C:\Users\ileti\Desktop\limon\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.KucukFormlar.textbox_form.resources
+C:\Users\ileti\Desktop\limon\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.login.resources
+C:\Users\ileti\Desktop\limon\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.masa.resources
+C:\Users\ileti\Desktop\limon\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.masa_butonlari.resources
+C:\Users\ileti\Desktop\limon\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.neler_sunuyoruz.resources
+C:\Users\ileti\Desktop\limon\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.personel.resources
+C:\Users\ileti\Desktop\limon\LimonOtomasyon1\obj\Debug\LimonOtomasyon.Formlar.raporlar.resources
+C:\Users\ileti\Desktop\limon\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.Sonislemler.resources
+C:\Users\ileti\Desktop\limon\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.urunler.resources
+C:\Users\ileti\Desktop\limon\LimonOtomasyon1\obj\Debug\LimonOtomasyon.Properties.Resources.resources
+C:\Users\ileti\Desktop\limon\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.csproj.GenerateResource.cache
+C:\Users\ileti\Desktop\limon\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.csproj.CoreCompileInputs.cache
+C:\Users\ileti\Desktop\limon\LimonOtomasyon1\obj\Debug\Limon Otomasyon.exe.manifest
+C:\Users\ileti\Desktop\limon\LimonOtomasyon1\obj\Debug\Limon Otomasyon.application
+C:\Users\ileti\Desktop\limon\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.csproj.CopyComplete
+C:\Users\ileti\Desktop\limon\LimonOtomasyon1\obj\Debug\Limon Otomasyon.exe
+C:\Users\ileti\Desktop\limon\LimonOtomasyon1\obj\Debug\Limon Otomasyon.pdb
+C:\Users\Ali\Downloads\ALİ\LimonOtomasyon1\bin\Debug\Limon Otomasyon.exe.config
+C:\Users\Ali\Downloads\ALİ\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.csproj.ResolveComReference.cache
+C:\Users\Ali\Downloads\ALİ\LimonOtomasyon1\obj\Debug\Limon Otomasyon.exe
+C:\Users\Ali\Downloads\ALİ\LimonOtomasyon1\obj\Debug\Limon Otomasyon.pdb
+C:\Users\Ali\Downloads\ALİ\LimonOtomasyon1\bin\Debug\Limon Otomasyon.exe.manifest
+C:\Users\Ali\Downloads\ALİ\LimonOtomasyon1\bin\Debug\Limon Otomasyon.application
+C:\Users\Ali\Downloads\ALİ\LimonOtomasyon1\bin\Debug\Limon Otomasyon.exe
+C:\Users\Ali\Downloads\ALİ\LimonOtomasyon1\bin\Debug\Limon Otomasyon.pdb
+C:\Users\Ali\Downloads\ALİ\LimonOtomasyon1\bin\Debug\DotNetZip.dll
+C:\Users\Ali\Downloads\ALİ\LimonOtomasyon1\bin\Debug\EntityFramework.dll
+C:\Users\Ali\Downloads\ALİ\LimonOtomasyon1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ali\Downloads\ALİ\LimonOtomasyon1\bin\Debug\Google.Protobuf.dll
+C:\Users\Ali\Downloads\ALİ\LimonOtomasyon1\bin\Debug\mscorlib.dll
+C:\Users\Ali\Downloads\ALİ\LimonOtomasyon1\bin\Debug\MySql.Data.dll
+C:\Users\Ali\Downloads\ALİ\LimonOtomasyon1\bin\Debug\System.Data.SQLite.dll
+C:\Users\Ali\Downloads\ALİ\LimonOtomasyon1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Ali\Downloads\ALİ\LimonOtomasyon1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Ali\Downloads\ALİ\LimonOtomasyon1\bin\Debug\DotNetZip.xml
+C:\Users\Ali\Downloads\ALİ\LimonOtomasyon1\bin\Debug\EntityFramework.xml
+C:\Users\Ali\Downloads\ALİ\LimonOtomasyon1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ali\Downloads\ALİ\LimonOtomasyon1\bin\Debug\Google.Protobuf.xml
+C:\Users\Ali\Downloads\ALİ\LimonOtomasyon1\bin\Debug\MySql.Data.xml
+C:\Users\Ali\Downloads\ALİ\LimonOtomasyon1\bin\Debug\System.Data.SQLite.xml
+C:\Users\Ali\Downloads\ALİ\LimonOtomasyon1\bin\Debug\tr\mscorlib.resources.dll
+C:\Users\Ali\Downloads\ALİ\LimonOtomasyon1\bin\Debug\normidna.nlp
+C:\Users\Ali\Downloads\ALİ\LimonOtomasyon1\bin\Debug\normnfc.nlp
+C:\Users\Ali\Downloads\ALİ\LimonOtomasyon1\bin\Debug\normnfd.nlp
+C:\Users\Ali\Downloads\ALİ\LimonOtomasyon1\bin\Debug\normnfkc.nlp
+C:\Users\Ali\Downloads\ALİ\LimonOtomasyon1\bin\Debug\normnfkd.nlp
+C:\Users\Ali\Downloads\ALİ\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.csprojResolveAssemblyReference.cache
+C:\Users\Ali\Downloads\ALİ\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.anasayfa.resources
+C:\Users\Ali\Downloads\ALİ\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.ayarlar.resources
+C:\Users\Ali\Downloads\ALİ\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.Deneme.resources
+C:\Users\Ali\Downloads\ALİ\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.hesapdefteri.resources
+C:\Users\Ali\Downloads\ALİ\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.KucukFormlar.alarm.resources
+C:\Users\Ali\Downloads\ALİ\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.KucukFormlar.hesap_ode.resources
+C:\Users\Ali\Downloads\ALİ\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.KucukFormlar.kullanicisozlesmesi.resources
+C:\Users\Ali\Downloads\ALİ\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.KucukFormlar.masa_tasi.resources
+C:\Users\Ali\Downloads\ALİ\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.KucukFormlar.personel_giris.resources
+C:\Users\Ali\Downloads\ALİ\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.KucukFormlar.textbox_form.resources
+C:\Users\Ali\Downloads\ALİ\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.login.resources
+C:\Users\Ali\Downloads\ALİ\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.masa.resources
+C:\Users\Ali\Downloads\ALİ\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.masa_butonlari.resources
+C:\Users\Ali\Downloads\ALİ\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.neler_sunuyoruz.resources
+C:\Users\Ali\Downloads\ALİ\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.personel.resources
+C:\Users\Ali\Downloads\ALİ\LimonOtomasyon1\obj\Debug\LimonOtomasyon.Formlar.raporlar.resources
+C:\Users\Ali\Downloads\ALİ\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.Sonislemler.resources
+C:\Users\Ali\Downloads\ALİ\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.urunler.resources
+C:\Users\Ali\Downloads\ALİ\LimonOtomasyon1\obj\Debug\LimonOtomasyon.Properties.Resources.resources
+C:\Users\Ali\Downloads\ALİ\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.csproj.GenerateResource.Cache
+C:\Users\Ali\Downloads\ALİ\LimonOtomasyon1\obj\Debug\Limon Otomasyon.exe.manifest
+C:\Users\Ali\Downloads\ALİ\LimonOtomasyon1\obj\Debug\Limon Otomasyon.application
+C:\Users\Ali\Desktop\Yeni klasör\LimonOtomasyon1\bin\Debug\Limon Otomasyon.exe.config
+C:\Users\Ali\Desktop\Yeni klasör\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.csproj.ResolveComReference.cache
+C:\Users\Ali\Desktop\Yeni klasör\LimonOtomasyon1\obj\Debug\Limon Otomasyon.exe
+C:\Users\Ali\Desktop\Yeni klasör\LimonOtomasyon1\obj\Debug\Limon Otomasyon.pdb
+C:\Users\Ali\Desktop\Yeni klasör\LimonOtomasyon1\bin\Debug\Limon Otomasyon.exe.manifest
+C:\Users\Ali\Desktop\Yeni klasör\LimonOtomasyon1\bin\Debug\Limon Otomasyon.application
+C:\Users\Ali\Desktop\Yeni klasör\LimonOtomasyon1\bin\Debug\Limon Otomasyon.exe
+C:\Users\Ali\Desktop\Yeni klasör\LimonOtomasyon1\bin\Debug\Limon Otomasyon.pdb
+C:\Users\Ali\Desktop\Yeni klasör\LimonOtomasyon1\bin\Debug\DotNetZip.dll
+C:\Users\Ali\Desktop\Yeni klasör\LimonOtomasyon1\bin\Debug\EntityFramework.dll
+C:\Users\Ali\Desktop\Yeni klasör\LimonOtomasyon1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ali\Desktop\Yeni klasör\LimonOtomasyon1\bin\Debug\Google.Protobuf.dll
+C:\Users\Ali\Desktop\Yeni klasör\LimonOtomasyon1\bin\Debug\MySql.Data.dll
+C:\Users\Ali\Desktop\Yeni klasör\LimonOtomasyon1\bin\Debug\System.Data.SQLite.dll
+C:\Users\Ali\Desktop\Yeni klasör\LimonOtomasyon1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Ali\Desktop\Yeni klasör\LimonOtomasyon1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Ali\Desktop\Yeni klasör\LimonOtomasyon1\bin\Debug\DotNetZip.xml
+C:\Users\Ali\Desktop\Yeni klasör\LimonOtomasyon1\bin\Debug\EntityFramework.xml
+C:\Users\Ali\Desktop\Yeni klasör\LimonOtomasyon1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ali\Desktop\Yeni klasör\LimonOtomasyon1\bin\Debug\Google.Protobuf.xml
+C:\Users\Ali\Desktop\Yeni klasör\LimonOtomasyon1\bin\Debug\MySql.Data.xml
+C:\Users\Ali\Desktop\Yeni klasör\LimonOtomasyon1\bin\Debug\System.Data.SQLite.xml
+C:\Users\Ali\Desktop\Yeni klasör\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.csprojResolveAssemblyReference.cache
+C:\Users\Ali\Desktop\Yeni klasör\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.anasayfa.resources
+C:\Users\Ali\Desktop\Yeni klasör\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.ayarlar.resources
+C:\Users\Ali\Desktop\Yeni klasör\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.hesapdefteri.resources
+C:\Users\Ali\Desktop\Yeni klasör\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.KucukFormlar.alarm.resources
+C:\Users\Ali\Desktop\Yeni klasör\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.KucukFormlar.hesap_ode.resources
+C:\Users\Ali\Desktop\Yeni klasör\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.KucukFormlar.kullanicisozlesmesi.resources
+C:\Users\Ali\Desktop\Yeni klasör\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.KucukFormlar.masa_tasi.resources
+C:\Users\Ali\Desktop\Yeni klasör\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.KucukFormlar.personel_giris.resources
+C:\Users\Ali\Desktop\Yeni klasör\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.KucukFormlar.textbox_form.resources
+C:\Users\Ali\Desktop\Yeni klasör\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.login.resources
+C:\Users\Ali\Desktop\Yeni klasör\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.masa.resources
+C:\Users\Ali\Desktop\Yeni klasör\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.masa_butonlari.resources
+C:\Users\Ali\Desktop\Yeni klasör\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.neler_sunuyoruz.resources
+C:\Users\Ali\Desktop\Yeni klasör\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.personel.resources
+C:\Users\Ali\Desktop\Yeni klasör\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.Sonislemler.resources
+C:\Users\Ali\Desktop\Yeni klasör\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.Formlar.urunler.resources
+C:\Users\Ali\Desktop\Yeni klasör\LimonOtomasyon1\obj\Debug\LimonOtomasyon.Properties.Resources.resources
+C:\Users\Ali\Desktop\Yeni klasör\LimonOtomasyon1\obj\Debug\LimonOtomasyon1.csproj.GenerateResource.Cache
+C:\Users\Ali\Desktop\Yeni klasör\LimonOtomasyon1\obj\Debug\Limon Otomasyon.exe.manifest
+C:\Users\Ali\Desktop\Yeni klasör\LimonOtomasyon1\obj\Debug\Limon Otomasyon.application
+C:\Users\Ali\Desktop\Yeni klasör\LimonOtomasyon1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Ali\Desktop\Yeni klasör\LimonOtomasyon1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Ali\Desktop\Yeni klasör\LimonOtomasyon1\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
